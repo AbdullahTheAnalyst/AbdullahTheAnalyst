@@ -6,7 +6,7 @@
 
 ## 🌍 About Me
 
-- 🇺🇿 Data Analyst & Aspiring Data Scientist from Uzbekistan
+- Data Analyst & Aspiring Data Scientist from Uzbekistan
 - 📊 Working with Data Analytics, Data Science, Machine Learning, and Deep Learning
 - 🛠 Currently building real-world portfolio projects to sharpen my skills
 - 🚀 Aiming to develop impactful tools that help simplify people’s lives
